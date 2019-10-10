@@ -10,9 +10,9 @@ This is a repository for the work I completed for the Coursera course Java Progr
 
 3. Object Oriented Caesar Cipher
 
-4. Telling a Random Story
+4. Telling a Random Story with ArrayLists
 
-5. Using and Improving Gladlibs with OOP
+5. Using and Improving Gladlibs with OOP and HashMaps
 
 6. Finding Unique IP Addresses and Counting Website Visits
 
