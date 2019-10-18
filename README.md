@@ -1,8 +1,8 @@
 # Java-Programming-Arrays-Lists-and-Structured-Data
 
-This is a repository for the work I completed for the Coursera course Java Programming: Arrays, Lists, and Structured Data.
+This is a repository for the work I completed for Java Programming: Arrays, Lists, and Structured Data.
 
-### Assignments include:
+### Projects include:
 
 1. Implementing the Caesar Cipher
 
@@ -16,4 +16,4 @@ This is a repository for the work I completed for the Coursera course Java Progr
 
 6. Finding Unique IP Addresses and Counting Website Visits
 
-7. Breaking the Vigenere Cipher - TO DO
+7. Breaking the Vigenere Cipher 
