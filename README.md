@@ -1,6 +1,6 @@
-# Java-Programming-Arrays-Lists-and-Structured-Data
+# Java-Programming-Structured-Data
 
-This is a repository for the work I completed for Java Programming: Arrays, Lists, and Structured Data.
+This is a repository for small projects practicing the use of structured data.
 
 ### Projects include:
 
