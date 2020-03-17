@@ -1,4 +1,4 @@
-# Java-Programming-Structured-Data
+# Java-and-Data-Structures
 
 This is a repository for small projects practicing the use of structured data.
 
