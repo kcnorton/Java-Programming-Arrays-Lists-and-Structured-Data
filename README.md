@@ -10,10 +10,8 @@ This is a repository for small projects practicing the use of structured data.
 
 3. Object Oriented Caesar Cipher
 
-4. Telling a Random Story with ArrayLists
+4. Using and Improving Gladlibs with OOP and HashMaps
 
-5. Using and Improving Gladlibs with OOP and HashMaps
+5. Finding Unique IP Addresses and Counting Website Visits
 
-6. Finding Unique IP Addresses and Counting Website Visits
-
-7. Breaking the Vigenere Cipher 
+6. Breaking the Vigenere Cipher 
